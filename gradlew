@@ -1,1 +1,2 @@
-404: Not Found
+#!/usr/bin/env sh
+exec gradle "$@"
